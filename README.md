@@ -2,7 +2,7 @@
 ░░█ █░▀█ █░░█ █▄▄█ █░░ ▀█▀ █░░█\
 █▄█ ▀▀▀▀ ▀░░▀ ▀░░▀ ▀▀▀ ▀▀▀ ▀▀▀▀
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jgnacio&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=jgnacio&theme=onelight&no-frame=false&no-bg=false&margin-w=4" />
 
 <h3>Mis pasatiempos favoritos:</h3>
 
@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,html,css,sass,python,selenium,ps,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,sass,python,selenium,ps,vim,vscode,git,github,linux,arch" />
   </a>
 </p>
