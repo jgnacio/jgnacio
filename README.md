@@ -10,7 +10,7 @@
 
 <img align="right" height="500" width="500" alt="" src="https://user-images.githubusercontent.com/96546108/208679452-8bb03b32-9e0d-45dd-92b2-ffce6cab690b.svg" />
 
-<h2 align="center">Hello, 👊 Welcome!</h2>
+<h2 align="center">Welcome!</h2>
 <p>👉My name is Ignacio Gómez 🇻🇪 thanks for visiting my repository, here you will find my different projects developed with great detail and dedication that I hope will be very useful.</p>
 
 <h3>My favorite hobbies:</h3>
