@@ -25,6 +25,6 @@
 <h2> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" /> Skills: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,lua,linux,bash,vim,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,lua,linux,bash,vim,git" />
   </a>
 </p>
