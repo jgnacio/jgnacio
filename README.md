@@ -19,10 +19,8 @@
 - 👨‍💻 I am passionate about research and taking on new challenges
 - 🎶 Accompanied by a good playlist, developing and coding is the best way to go. 🙌
 
-
----
 <div align="center">
-<h2> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" /> Skills: </h2>
+<h2> <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" /> Skills: </h2>
     <img src="https://skillicons.dev/icons?i=c,python,js,lua,linux,bash,vim,git"/>
 </div>
 
