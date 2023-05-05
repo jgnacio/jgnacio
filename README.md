@@ -113,6 +113,6 @@ void free_developer(struct developer *d) {
  <br />
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=jgnacio&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="jgnacio" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgnacio&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="jgnacio" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgnacio&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,html,php" alt="jgnacio" />
  <img src="https://github-readme-streak-stats.herokuapp.com?user=jgnacio&theme=onedark&hide_border=true&background=FFFFFF00" alt="jgnacio" />
 </p>
