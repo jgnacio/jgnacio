@@ -29,88 +29,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-</div>
-
-<img src="https://slackmojis.com/emojis/7421-typingcat/download" width="50"> A little more about me...  
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-
-struct developer {
-    char *name;
-    char *education;
-    char *skills;
-    char *interests;
-    char *misc;
-};
-
-void free_developer(struct developer *d);
-
-int main() {
-    struct developer jgnacio;
-
-    jgnacio.name = malloc(16 * sizeof(char));
-    if (jgnacio.name == NULL) {
-        printf("Error: failed to allocate memory for name.\n");
-        return 1;
-    }
-    strcpy(jgnacio.name, "Ignacio Gómez");
-
-    jgnacio.education = malloc(58 * sizeof(char));
-    if (jgnacio.education == NULL) {
-        printf("Error: failed to allocate memory for education.\n");
-        free_developer(&jgnacio);
-        return 1;
-    }
-    strcpy(jgnacio.education, "I am a software engineering student at Holberton School.");
-
-    jgnacio.skills = malloc(16 * sizeof(char));
-    if (jgnacio.skills == NULL) {
-        printf("Error: failed to allocate memory for skills.\n");
-        free_developer(&jgnacio);
-        return 1;
-    }
-    strcpy(jgnacio.skills, "C, Python, Lua");
-
-    jgnacio.interests = malloc(102 * sizeof(char));
-    if (jgnacio.interests == NULL) {
-        printf("Error: failed to allocate memory for interests.\n");
-        free_developer(&jgnacio);
-        return 1;
-    }
-    strcpy(jgnacio.interests, "Keeping up with the latest trends in the technology industry and exploring new programming projects.");
-
-    jgnacio.misc = malloc(43 * sizeof(char));
-    if (jgnacio.misc == NULL) {
-        printf("Error: failed to allocate memory for misc.\n");
-        free_developer(&jgnacio);
-        return 1;
-    }
-    strcpy(jgnacio.misc, "opengl, moderngl, nextjs, reactjs, prisma");
-
-    printf("Hi, my name is %s and %s\n", jgnacio.name, jgnacio.education);
-    printf("Most programming languages I use: %s\n", jgnacio.skills);
-    printf("My interests include: %s\n", jgnacio.interests);
-    printf("Miscellaneous skills: %s\n", jgnacio.misc);
-
-    free_developer(&jgnacio);
-
-    return 0;
-}
-
-void free_developer(struct developer *d) {
-    free(d->name);
-    free(d->education);
-    free(d->skills);
-    free(d->interests);
-    free(d->misc);
-}
-```
-<h2 align="center">  GitHub stats </h2>
- <br />
+<details>
+ <summary>Language Statistics</summary>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jgnacio&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="jgnacio" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgnacio&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,html,php" alt="jgnacio" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=jgnacio&theme=onedark&hide_border=true&background=FFFFFF00" alt="jgnacio" />
+<img src="https://wakatime.com/share/@5b70585a-c980-4bbf-aee8-e9ae0a4588b6/cc208967-a3ba-4140-a932-1582603dcdf2.svg" height="400"></img>
 </p>
+</details>
