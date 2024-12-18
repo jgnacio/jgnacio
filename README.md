@@ -8,7 +8,6 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       <img src="https://img.shields.io/github/followers/jgnacio?label=Followers&style=social" alt="GitHub Followers"/>
-![](https://komarev.com/ghpvc/?username=jgnacio&style=for-the-badge&color=red)
    </p>
  
   <p>⚡ Full Stack Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor</p>
@@ -70,5 +69,6 @@ Feel free to reach out and connect with me:
     <a href="mailto:jgnaciogomez.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+         <img src="https://visitcount.itsvg.in/api?id=jgnacio&icon=0&color=0" alt="Profile Visit Count"/>
 </div>
 
