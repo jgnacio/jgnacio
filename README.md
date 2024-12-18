@@ -8,12 +8,11 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       <img src="https://img.shields.io/github/followers/jgnacio?label=Followers&style=social" alt="GitHub Followers"/>
-  
+![](https://komarev.com/ghpvc/?username=jgnacio&style=for-the-badge&color=red)
    </p>
  
   <p>⚡ Full Stack Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor</p>
 </div>
-![](https://komarev.com/ghpvc/?username=jgnacio&style=for-the-badge&color=red)
 
 I'm a passionate developer who loves exploring new technologies and creating innovative solutions. My interests span across web development, cloud computing, and cutting-edge frameworks.
 
