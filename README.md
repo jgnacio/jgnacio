@@ -1,12 +1,6 @@
 <div align="center">
         <img src="https://res.cloudinary.com/dhq5ewbyu/image/upload/v1734516434/daniel-olah-VS_kFx4yF5g-unsplash_gwjdln.webp" alt="Header Image" width="100%" height="25" style="object-fit: cover;"/>
     <h1>👋 Hello World! I'm Ignacio Gómez</h1>
-    <p>
-        <a href="https://www.linkedin.com/in/jgnaciogomez/" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <img src="https://img.shields.io/github/followers/jgnacio?label=Followers&style=social" alt="GitHub Followers"/>
-  </p>
 <p>⚡ Full Stack Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor</p>
 </div>
 
