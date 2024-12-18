@@ -1,26 +1,21 @@
 <div align="center">
         <img src="https://res.cloudinary.com/dhq5ewbyu/image/upload/v1734516434/daniel-olah-VS_kFx4yF5g-unsplash_gwjdln.webp" alt="Header Image" width="100%" height="25" style="object-fit: cover;"/>
-    
-<h1>👋 Hello World! I'm Ignacio Gómez</h1>
-   
-  <p>
+    <h1>👋 Hello World! I'm Ignacio Gómez</h1>
+    <p>
         <a href="https://www.linkedin.com/in/jgnaciogomez/" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <img src="https://img.shields.io/github/followers/jgnacio?label=Followers&style=social" alt="GitHub Followers"/>
-  
-   </p>
-    
-   <p>⚡ Full Stack Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor</p>
+  </p>
+<p>⚡ Full Stack Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor</p>
 </div>
 
 I'm a passionate developer who loves exploring new technologies and creating innovative solutions. My interests span across web development, cloud computing, and cutting-edge frameworks.
 
-<h2 align="center">🛠️ Technology Ecosystem</h2>
+## 🛠️ Technology Ecosystem
 
-
-<h3 align="center">🖥️ Languages</h3>
-<div style="display:flex; flex-wrap: wrap; justify-content:center">
+### 🖥️ Languages & Programming
+<div >
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -28,9 +23,8 @@ I'm a passionate developer who loves exploring new technologies and creating inn
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </div>
 
-
-<h3 align="center">🚀 Frameworks & Libraries</h3>
-<div style="display:flex; flex-wrap: wrap; justify-content:center">
+### 🚀 Frameworks & Libraries
+<div>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
@@ -43,14 +37,13 @@ I'm a passionate developer who loves exploring new technologies and creating inn
     <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white" alt="Tauri"/>
 </div>
 
-
-<h3 align="center">💾 ORM</h3>
-<div style="display:flex; flex-wrap: wrap; justify-content:center">
+### 💾 ORM
+<div>
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
 </div>
 
-<h3 align="center">🔧 Development Tools & Platforms</h3>
-<div style="display:flex; flex-wrap: wrap; justify-content:center">
+### 🔧 Development Tools & Platforms
+<div>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -61,10 +54,11 @@ I'm a passionate developer who loves exploring new technologies and creating inn
 <div align="center">
     <img src="https://wakatime.com/share/@5b70585a-c980-4bbf-aee8-e9ae0a4588b6/cc208967-a3ba-4140-a932-1582603dcdf2.svg" height="400" alt="Wakatime Stats"/>
 </div>
-<h3 align="center">📫 Let's Connect!</h3>
+
+## 📫 Let's Connect!
 
 Feel free to reach out and connect with me:
- <img src="https://visitcount.itsvg.in/api?id=jgnacio&icon=0&color=0" alt="Profile Visit Count"/>
+
 <div style="display:flex; flex-wrap: wrap; justify-content:center">
     <a href="https://www.linkedin.com/in/jgnaciogomez/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -74,3 +68,4 @@ Feel free to reach out and connect with me:
     </a>
 	       
 </div>
+ <img src="https://visitcount.itsvg.in/api?id=jgnacio&icon=0&color=0" alt="Profile Visit Count"/>
